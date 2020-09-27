@@ -20,6 +20,8 @@ namespace DockerTest1
             Configuration = configuration;
 
 
+
+
         }
 
         public IConfiguration Configuration { get; }
